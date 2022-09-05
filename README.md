@@ -1,4 +1,4 @@
-# Analyzing words users choose to generate AI art in MidJourney
+#Analyzing words users choose to generate AI art in MidJourney
 
 This projects goal was to visualize the most frequent unique words used to generate AI images. 
 I also mapped the most frequent unique words, with all of the most frequeslty associated word.
